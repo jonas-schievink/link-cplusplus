@@ -8,6 +8,7 @@ description = "Link libstdc++ or libc++ automatically or manually"
 repository = "https://github.com/dtolnay/link-cplusplus"
 documentation = "https://docs.rs/link-cplusplus"
 readme = "README.md"
+links = "cplusplus"
 
 [build-dependencies]
 cc = "1.0"
